@@ -110,36 +110,13 @@ I build modern web applications with a focus on clean UI, real functionality, an
 
 <br><br>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-**▸ PROJECT 01**
-
-**Your Project Name**
-
-A short description of what the project does.
-
-`React` `TypeScript` `Tailwind`
-
-[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**▸ PROJECT 02**
-
-**Your Project Name**
-
-A short description of what the project does.
-
-`Node.js` `Express` `MySQL`
-
-[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/ismo1lov">
+  <img src="./assets/work-card-1.svg" width="390" alt="Project 01" />
+</a>
+&nbsp;
+<a href="https://github.com/ismo1lov">
+  <img src="./assets/work-card-2.svg" width="390" alt="Project 02" />
+</a>
 
 </div>
 
@@ -160,15 +137,7 @@ A short description of what the project does.
 <div align="center">
 
 <a href="https://t.me/AbdullohIsmoilov">
-  <img src="https://img.shields.io/badge/Telegram-00C853?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ismoilovabdulloh2009@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=00C853" />
-</a>
-&nbsp;
-<a href="https://github.com/ismo1lov">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="./assets/connect-card.svg" width="640" alt="Connect card" />
 </a>
 
 <br><br>

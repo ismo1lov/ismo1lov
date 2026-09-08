@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="70" viewBox="0 0 250 70">
+  <defs>
+    <linearGradient id="gr3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#1a2430"/>
+    </linearGradient>
+  </defs>
+  <rect width="250" height="70" rx="10" fill="url(#gr3)"/>
+  <rect x="3" y="3" width="244" height="64" rx="8" fill="none" stroke="#00C853" stroke-width="3" stroke-dasharray="8 5" opacity="0.7"/>
+  <text x="125" y="40" font-family="'Press Start 2P', monospace" font-size="14" fill="#00C853" text-anchor="middle" font-weight="bold">LEARNER</text>
+  <text x="125" y="58" font-family="'Press Start 2P', monospace" font-size="10" fill="#00C853" text-anchor="middle" opacity="0.8">WITH PASSION</text>
+</svg>

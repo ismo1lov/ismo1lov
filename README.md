@@ -6,15 +6,15 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00C853&background=00000000&center=true&vCenter=true&width=800&height=70&lines=ABDULLOH+ISMOILOV;FULL-STACK+DEVELOPER;BUILDING+IDEAS+INTO+CODE;LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00C853&background=00000000&center=true&vCenter=true&width=850&height=90&lines=ABDULLOH+ISMOILOV;FULL-STACK+DEVELOPER;BUILDING+IDEAS+INTO+CODE;LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE" alt="Animated introduction" />
 
 <br>
 
-<img src="https://img.shields.io/badge/FULL--STACK-00C853?style=for-the-badge" />
+<img src="./assets/badge-fullstack.svg" width="250" alt="Full-Stack Developer" />
 &nbsp;
-<img src="https://img.shields.io/badge/UI%2FUX-DESIGNER-00C853?style=for-the-badge" />
+<img src="./assets/badge-uiux.svg" width="250" alt="UI/UX Designer" />
 &nbsp;
-<img src="https://img.shields.io/badge/LEARNER-WITH+PASSION-FFFFFF?style=for-the-badge&labelColor=00C853" />
+<img src="./assets/badge-learner.svg" width="250" alt="Learner with Passion" />
 
 </div>
 

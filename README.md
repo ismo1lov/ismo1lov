@@ -7,7 +7,9 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00C853&background=00000000&center=true&vCenter=true&width=600&height=50&lines=ABDULLOH" alt="Abdulloh" />
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&height=60&lines=ISMOILOV" alt="Ismoilov" />
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=800&color=00C853&background=00000000&center=true&vCenter=true&width=900&height=50&lines=FULL-STACK+DEVELOPER;BUILDING+IDEAS+INTO+CODE;LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE" alt="Tagline" />
 
 <br>
@@ -22,82 +24,68 @@
 
 ---
 
-## ═══ ABOUT ME ═══
+<div align="center">
+  <img src="./assets/title-about.svg" width="400" alt="About Me" />
+</div>
 
-```text
-  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  █  Name    →  Abdulloh Ismoilov
-  █  Role    →  Full-Stack Developer
-  █  Focus   →  Frontend · Backend · UI/UX · Database
-  █  Mindset →  Learn → Build → Improve
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<br>
 
-I build modern web applications with a focus on **clean UI**, **real functionality**, and **efficient data handling**.
+<div align="center">
+  <img src="./assets/about-card.svg" width="640" alt="About card" />
+</div>
 
----
-
-## ═══ SKILLS ═══
-
-```text
-Frontend      ████████████████████ 90%
-Backend       ████████████████░░░░ 80%
-UI / UX       ██████████████████░░ 85%
-Database      ███████████████░░░░░ 75%
-Problem Solv. ████████████████████ 90%
-```
+<div align="center">
+<br>
+I build modern web applications with a focus on clean UI, real functionality, and efficient data handling.
+</div>
 
 ---
 
-## ═══ TECHNOLOGY MAP ═══
+<div align="center">
+  <img src="./assets/title-skills.svg" width="400" alt="Skills" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/skills-bars.svg" width="800" alt="Skills bars" />
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/title-techmap.svg" width="600" alt="Technology Map" />
+</div>
+
+<br>
 
 <div align="center">
 
-### FRONTEND
+**FRONTEND**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" title="Vue.js" />
+<img src="./assets/techmap-frontend.svg" width="640" alt="Frontend icons" />
 
 <br><br>
 
-### BACKEND & DATABASE
+**BACKEND & DATABASE**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+<img src="./assets/techmap-backend.svg" width="330" alt="Backend icons" />
 
 <br><br>
 
-### TOOLS
+**TOOLS**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
+<img src="./assets/techmap-tools.svg" width="440" alt="Tools icons" />
 
 </div>
 
 ---
 
-## ═══ GITHUB ACTIVITY ═══
+<div align="center">
+  <img src="./assets/title-activity.svg" width="600" alt="GitHub Activity" />
+</div>
+
+<br>
 
 <div align="center">
 
@@ -117,32 +105,57 @@ Problem Solv. ████████████████████ 90%
 
 ---
 
-## ═══ SELECTED WORK ═══
-
-| | |
-|---|---|
-| **▸ PROJECT 01**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`React` `TypeScript` `Tailwind`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> | **▸ PROJECT 02**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`Node.js` `Express` `MySQL`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> |
-
----
-
 <div align="center">
+  <img src="./assets/title-work.svg" width="600" alt="Selected Work" />
 
-```text
-  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  █                                               █
-  █      THINK  →  BUILD  →  TEST  →  IMPROVE    █
-  █                                               █
-  █        CODE IS A CRAFT.                       █
-  █        DETAILS CREATE THE DIFFERENCE.         █
-  █                                               █
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<br><br>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**▸ PROJECT 01**
+
+**Your Project Name**
+
+A short description of what the project does.
+
+`React` `TypeScript` `Tailwind`
+
+[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**▸ PROJECT 02**
+
+**Your Project Name**
+
+A short description of what the project does.
+
+`Node.js` `Express` `MySQL`
+
+[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ═══ CONNECT ═══
+<div align="center">
+  <img src="./assets/philosophy-card.svg" width="800" alt="Philosophy" />
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/title-connect.svg" width="400" alt="Connect" />
+</div>
+
+<br>
 
 <div align="center">
 

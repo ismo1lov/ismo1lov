@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130">
+  <rect x="0" y="0" width="800" height="130" rx="14" fill="#0D1117"/>
+  <rect x="6" y="6" width="788" height="118" rx="10" fill="none" stroke="#00C853" stroke-width="1" opacity="0.4" stroke-dasharray="8 5"/>
+
+  <text x="40" y="55" font-family="'Press Start 2P', monospace" font-size="16" fill="#00C853">THINK</text>
+  <text x="180" y="55" font-family="'Press Start 2P', monospace" font-size="16" fill="#FFFFFF">→</text>
+  <text x="230" y="55" font-family="'Press Start 2P', monospace" font-size="16" fill="#00C853">BUILD</text>
+  <text x="390" y="55" font-family="'Press Start 2P', monospace" font-size="16" fill="#FFFFFF">→</text>
+  <text x="430" y="55" font-family="'Press Start 2P', monospace" font-size="16" fill="#00C853">TEST</text>
+  <text x="570" y="55" font-family="'Press Start 2P', monospace" font-size="16" fill="#FFFFFF">→</text>
+  <text x="610" y="55" font-family="'Press Start 2P', monospace" font-size="16" fill="#00C853">IMPROVE</text>
+
+  <line x1="40" y1="75" x2="730" y2="75" stroke="#00C853" stroke-width="1.5" opacity="0.6"/>
+  <text x="40" y="100" font-family="monospace" font-size="15" fill="#FFFFFF">CODE IS A CRAFT.</text>
+  <text x="430" y="100" font-family="monospace" font-size="15" fill="#00C853">DETAILS CREATE THE DIFFERENCE.</text>
+</svg>

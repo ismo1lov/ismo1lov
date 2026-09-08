@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330" height="190" viewBox="0 0 330 190">
+  <defs>
+    <linearGradient id="bBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#001a0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="330" height="190" rx="14" fill="url(#bBg)"/>
+
+  <!-- Falling 01 -->
+  <g font-family="monospace" font-weight="bold" opacity="0.35">
+    <text x="30" y="-10" font-size="16" fill="#00C853">01
+      <animate attributeName="y" from="-10" to="200" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="140" y="-10" font-size="12" fill="#00e676">10
+      <animate attributeName="y" from="-10" to="200" dur="3.8s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="270" y="-10" font-size="15" fill="#009624">11
+      <animate attributeName="y" from="-10" to="200" dur="6s" begin="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Icons row -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="30" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="140" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="250" y="65" width="50" height="50"/>
+</svg>

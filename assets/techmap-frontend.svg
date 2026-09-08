@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="190" viewBox="0 0 640 190">
+  <defs>
+    <linearGradient id="fBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#001a0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="190" rx="14" fill="url(#fBg)"/>
+
+  <!-- Falling 01 -->
+  <g font-family="monospace" font-weight="bold" opacity="0.35">
+    <text x="30" y="-10" font-size="16" fill="#00C853">01
+      <animate attributeName="y" from="-10" to="200" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="110" y="-10" font-size="12" fill="#00e676">10
+      <animate attributeName="y" from="-10" to="200" dur="3.8s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="200" y="-10" font-size="15" fill="#009624">11
+      <animate attributeName="y" from="-10" to="200" dur="6s" begin="1s" repeatCount="indefinite"/>
+    </text>
+    <text x="300" y="-10" font-size="11" fill="#00C853">00
+      <animate attributeName="y" from="-10" to="200" dur="4.2s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="400" y="-10" font-size="14" fill="#00e676">01
+      <animate attributeName="y" from="-10" to="200" dur="5.5s" begin="0.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="-10" font-size="13" fill="#009624">10
+      <animate attributeName="y" from="-10" to="200" dur="3.5s" begin="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="590" y="-10" font-size="16" fill="#00C853">11
+      <animate attributeName="y" from="-10" to="200" dur="4.8s" begin="0.3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Icons row -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="20" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="100" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="180" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="260" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="340" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="420" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" x="500" y="65" width="50" height="50"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" x="580" y="65" width="50" height="50"/>
+</svg>

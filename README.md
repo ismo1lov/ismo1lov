@@ -60,23 +60,7 @@ I build modern web applications with a focus on clean UI, real functionality, an
 <br>
 
 <div align="center">
-
-**FRONTEND**
-
-<img src="./assets/techmap-frontend.svg" width="640" alt="Frontend icons" />
-
-<br><br>
-
-**BACKEND & DATABASE**
-
-<img src="./assets/techmap-backend.svg" width="330" alt="Backend icons" />
-
-<br><br>
-
-**TOOLS**
-
-<img src="./assets/techmap-tools.svg" width="440" alt="Tools icons" />
-
+  <img src="./assets/techmap.svg" width="900" alt="Technology Map" />
 </div>
 
 ---

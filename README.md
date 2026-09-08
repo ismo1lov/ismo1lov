@@ -69,19 +69,13 @@ Problem Solv. ████████████████████ 90%
 
 <br><br>
 
-### BACKEND & DATA
+### BACKEND & DATABASE
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
 
 <br><br>
 
@@ -123,7 +117,7 @@ Problem Solv. ████████████████████ 90%
 
 | | |
 |---|---|
-| **▸ PROJECT 01**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`React` `TypeScript` `Tailwind`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> | **▸ PROJECT 02**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`Node.js` `Express` `PostgreSQL`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> |
+| **▸ PROJECT 01**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`React` `TypeScript` `Tailwind`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> | **▸ PROJECT 02**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`Node.js` `Express` `MySQL`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> |
 
 ---
 

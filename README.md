@@ -163,5 +163,5 @@ Problem Solv. ████████████████████ 90%
 ---
 
 <p align="center">
-  <img src="./assets/falling-blocks-numbers.svg" width="100%" alt="Footer" />
+  <img src="./assets/falling-blocks-background.svg" width="100%" alt="Footer" />
 </p>

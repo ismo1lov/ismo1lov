@@ -21,7 +21,7 @@
   </g>
 
   <!-- Icons row -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="30" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="140" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="250" y="65" width="50" height="50"/>
+  <image href="icons/nodejs-original.svg" x="30" y="65" width="50" height="50"/>
+  <image href="icons/express-original.svg" x="140" y="65" width="50" height="50"/>
+  <image href="icons/mysql-original.svg" x="250" y="65" width="50" height="50"/>
 </svg>

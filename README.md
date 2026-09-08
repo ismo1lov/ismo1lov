@@ -111,11 +111,11 @@ I build modern web applications with a focus on clean UI, real functionality, an
 <br><br>
 
 <a href="https://github.com/ismo1lov">
-  <img src="./assets/work-card-1.svg" width="420" alt="Project 01" />
+  <img src="./assets/work-card-1.svg" width="460" alt="Project 01" />
 </a>
 &nbsp;
 <a href="https://github.com/ismo1lov">
-  <img src="./assets/work-card-2.svg" width="420" alt="Project 02" />
+  <img src="./assets/work-card-2.svg" width="460" alt="Project 02" />
 </a>
 
 </div>

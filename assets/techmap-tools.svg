@@ -24,8 +24,8 @@
   </g>
 
   <!-- Icons row -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" x="40" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="150" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" x="260" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" x="370" y="65" width="50" height="50"/>
+  <image href="icons/figma-original.svg" x="40" y="65" width="50" height="50"/>
+  <image href="icons/git-original.svg" x="150" y="65" width="50" height="50"/>
+  <image href="icons/github-original.svg" x="260" y="65" width="50" height="50"/>
+  <image href="icons/vscode-original.svg" x="370" y="65" width="50" height="50"/>
 </svg>

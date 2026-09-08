@@ -33,12 +33,12 @@
   </g>
 
   <!-- Icons row -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="20" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="100" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="180" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="260" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="340" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="420" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" x="500" y="65" width="50" height="50"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" x="580" y="65" width="50" height="50"/>
+  <image href="icons/html5-original.svg" x="20" y="65" width="50" height="50"/>
+  <image href="icons/css3-original.svg" x="100" y="65" width="50" height="50"/>
+  <image href="icons/javascript-original.svg" x="180" y="65" width="50" height="50"/>
+  <image href="icons/typescript-original.svg" x="260" y="65" width="50" height="50"/>
+  <image href="icons/react-original.svg" x="340" y="65" width="50" height="50"/>
+  <image href="icons/tailwindcss-original.svg" x="420" y="65" width="50" height="50"/>
+  <image href="icons/nextjs-original.svg" x="500" y="65" width="50" height="50"/>
+  <image href="icons/vuejs-original.svg" x="580" y="65" width="50" height="50"/>
 </svg>

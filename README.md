@@ -111,11 +111,11 @@ I build modern web applications with a focus on clean UI, real functionality, an
 <br><br>
 
 <a href="https://github.com/ismo1lov">
-  <img src="./assets/work-card-1.svg" width="390" alt="Project 01" />
+  <img src="./assets/work-card-1.svg" width="420" alt="Project 01" />
 </a>
 &nbsp;
 <a href="https://github.com/ismo1lov">
-  <img src="./assets/work-card-2.svg" width="390" alt="Project 02" />
+  <img src="./assets/work-card-2.svg" width="420" alt="Project 02" />
 </a>
 
 </div>
@@ -124,26 +124,6 @@ I build modern web applications with a focus on clean UI, real functionality, an
 
 <div align="center">
   <img src="./assets/philosophy-card.svg" width="800" alt="Philosophy" />
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/title-connect.svg" width="400" alt="Connect" />
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://t.me/AbdullohIsmoilov">
-  <img src="./assets/connect-card.svg" width="640" alt="Connect card" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ismo1lov&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge" />
-
 </div>
 
 ---

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60" viewBox="0 0 400 60">
-  <defs>
-    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#00C853" flood-opacity="0.8"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00C853" flood-opacity="0.4"/>
-    </filter>
-  </defs>
-  <text x="200" y="42" font-family="monospace" font-size="28" fill="#00C853" text-anchor="middle" filter="url(#glow)">CONNECT</text>
-</svg>

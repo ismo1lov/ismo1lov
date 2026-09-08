@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="390" height="210" viewBox="0 0 390 210">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="0 0 420 250">
   <defs>
     <filter id="pGlow" x="-10%" y="-10%" width="120%" height="120%">
       <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#00C853" flood-opacity="0.6"/>
     </filter>
   </defs>
-  <rect x="0" y="0" width="390" height="210" rx="14" fill="#0D1117"/>
-  <rect x="6" y="6" width="378" height="198" rx="10" fill="none" stroke="#00C853" stroke-width="1" opacity="0.4" stroke-dasharray="8 5"/>
+  <rect x="0" y="0" width="420" height="250" rx="14" fill="#0D1117"/>
+  <rect x="8" y="8" width="404" height="234" rx="10" fill="none" stroke="#00C853" stroke-width="3"/>
 
-  <text x="195" y="40" font-family="'Press Start 2P', monospace" font-size="13" fill="#00C853" text-anchor="middle" filter="url(#pGlow)">PROJECT 01</text>
+  <text x="210" y="45" font-family="'Press Start 2P', monospace" font-size="15" fill="#00C853" text-anchor="middle" filter="url(#pGlow)">PROJECT 01</text>
 
-  <line x1="60" y1="55" x2="330" y2="55" stroke="#00C853" stroke-width="1" opacity="0.4"/>
+  <line x1="60" y1="62" x2="360" y2="62" stroke="#00C853" stroke-width="1.5" opacity="0.5"/>
 
-  <text x="195" y="85" font-family="'Press Start 2P', monospace" font-size="12" fill="#FFFFFF" text-anchor="middle">Your Project Name</text>
+  <text x="210" y="105" font-family="'Press Start 2P', monospace" font-size="17" fill="#FFFFFF" text-anchor="middle">Your Project Name</text>
 
-  <text x="195" y="115" font-family="monospace" font-size="13" fill="#C9D1D9" text-anchor="middle">A short description of what the</text>
-  <text x="195" y="135" font-family="monospace" font-size="13" fill="#C9D1D9" text-anchor="middle">project does.</text>
+  <text x="210" y="140" font-family="monospace" font-size="15" fill="#FFFFFF" text-anchor="middle">A short description of what the</text>
+  <text x="210" y="163" font-family="monospace" font-size="15" fill="#FFFFFF" text-anchor="middle">project does.</text>
 
-  <text x="195" y="165" font-family="monospace" font-size="13" fill="#00C853" text-anchor="middle">React · TypeScript · Tailwind</text>
+  <text x="210" y="200" font-family="monospace" font-size="15" fill="#C9D1D9" text-anchor="middle">React · TypeScript · Tailwind</text>
 
-  <text x="195" y="195" font-family="'Press Start 2P', monospace" font-size="9" fill="#FFFFFF" text-anchor="middle" filter="url(#pGlow)">VIEW REPOSITORY →</text>
+  <text x="210" y="235" font-family="'Press Start 2P', monospace" font-size="11" fill="#FFFFFF" text-anchor="middle" filter="url(#pGlow)">VIEW REPOSITORY →</text>
 </svg>

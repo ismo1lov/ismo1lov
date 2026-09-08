@@ -1,229 +1,143 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C853&height=150&section=header&text=ABDULLOH%20ISMOILOV&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%" />
+</p>
+
 <div align="center">
 
-<a href="https://github.com/ismo1lov">
-  <img src="./assets/header.jpg" width="100%" alt="Header" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=00C853&background=00000000&center=true&vCenter=true&width=800&height=80&lines=ABDULLOH+ISMOILOV;FULL-STACK+DEVELOPER;BUILDING+IDEAS+INTO+CODE" alt="Abdulloh Ismoilov" />
+<img src="./assets/header.jpg" width="100%" alt="Header" />
 
 <br>
 
-<img src="https://img.shields.io/badge/FULL--STACK-00C853?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/UI%2FUX-DESIGNER-00C853?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/LEARNER-WITH+PASSION-FFFFFF?style=for-the-badge&labelColor=00C853" />
+<!-- Avatar + name over header -->
+<img src="https://avatars.githubusercontent.com/ismo1lov?s=200" width="130" style="border-radius:50%; border:5px solid #00C853; margin-top:-65px;" alt="Profile" />
+
+<br>
+
+<h1 style="background:linear-gradient(90deg,#00C853,#FFFFFF); -webkit-background-clip:text; -webkit-text-fill-color:transparent; font-size:60px; margin:10px 0;">ISMOILOV ABDULLOH</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=00C853&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Developer;Frontend+%7C+Backend+%7C+UI%2FUX;Building+Ideas+Into+Code" alt="Typing animation" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## <img src="https://img.icons8.com/color/48/000000/about-me-male.png" width="30" align="center"/> ABOUT ME
 
-### 👤 ABOUT ME
-
-```
-Name      →  Abdulloh Ismoilov
-Role      →  Full-Stack Developer
-Focus     →  Frontend · Backend · UI/UX · Database
-Mindset   →  Learn → Build → Improve
-```
+| | |
+|---|---|
+| **Name** | Abdulloh Ismoilov |
+| **Role** | Full-Stack Developer |
+| **Focus** | Frontend · Backend · UI/UX · Database |
+| **Mindset** | Learn → Build → Improve |
 
 I build modern web applications with a focus on **clean UI**, **real functionality**, and **efficient data handling**.
 
-</td>
-<td width="45%" valign="top">
-
-### 📊 SKILLS
-
-```
-Frontend      ████████████████████  90%
-Backend       ████████████████░░░░  80%
-UI / UX       ██████████████████░░  85%
-Database      ███████████████░░░░░  75%
-Problem Solv. ████████████████████  90%
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
-### 🛠️ TECH STACK
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="200">
-
-**FRONTEND**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind" />
-
-</td>
-<td align="center" width="200">
-
-**BACKEND**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
-
-</td>
-<td align="center" width="200">
-
-**DATABASE**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase" />
-
-</td>
-<td align="center" width="200">
-
-**TOOLS**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 📈 GITHUB ACTIVITY
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ismo1lov&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&icon_color=00C853&ring_color=00C853&include_all_commits=true" />
-
-</td>
-<td>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismo1lov&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&langs_count=8" />
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismo1lov&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ismo1lov&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-### 💼 SELECTED WORK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### PROJECT 01
-
-**Your Project Name**
-
-A short description of what the project does.
-
-`React` `TypeScript` `Tailwind`
-
-[VIEW REPOSITORY →](https://github.com/ismo1lov)
-
-</td>
-<td width="50%" valign="top">
-
-#### PROJECT 02
-
-**Your Project Name**
-
-A short description of what the project does.
-
-`Node.js` `Express` `PostgreSQL`
-
-[VIEW REPOSITORY →](https://github.com/ismo1lov)
-
-</td>
-</tr>
-</table>
-
----
-
-### 💡 PHILOSOPHY
-
-<div align="center">
+## <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="30" align="center"/> CURRENT DIRECTION
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   THINK  →  BUILD  →  TEST  →  IMPROVE              │
-│                                                      │
-│            CODE IS A CRAFT.                          │
-│            DETAILS CREATE THE DIFFERENCE.            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+Frontend      ████████████████████ 90%
+Backend       ████████████████░░░░ 80%
+UI / UX       ██████████████████░░ 85%
+Database      ███████████████░░░░░ 75%
+Problem Solv. ████████████████████ 90%
 ```
-
-</div>
 
 ---
 
-### 📬 CONNECT
+## <img src="https://img.icons8.com/color/48/000000/code.png" width="30" align="center"/> TECH STACK
 
-<div align="center">
+<p align="center">
 
-<a href="https://t.me/AbdullohIsmoilov">
-  <img src="https://img.shields.io/badge/Telegram-00C853?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ismoilovabdulloh2009@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=00C853" />
-</a>
+### <img src="https://img.icons8.com/color/48/000000/source-code.png" width="28" align="center"/> Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" title="Tailwind"/>
+
+### <img src="https://img.icons8.com/color/48/000000/server.png" width="28" align="center"/> Backend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
+
+### <img src="https://img.icons8.com/color/48/000000/database.png" width="28" align="center"/> Database
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55" title="Supabase"/>
+
+### <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="28" align="center"/> Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
+
+</p>
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/github.png" width="30" align="center"/> GITHUB ACTIVITY
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ismo1lov&show_icons=true&theme=vue&hide_border=false&border_radius=15&card_width=450&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismo1lov&layout=compact&theme=vue&hide_border=false&border_radius=15&card_width=400&langs_count=8"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ismo1lov&label=PROFILE%20VIEWS&color=00C853&style=flat-square" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismo1lov&theme=vue&hide_border=false&border_radius=15"/>
 
-</div>
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ismo1lov&theme=vue&hide_border=false&area=true"/>
+
+</p>
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/briefcase.png" width="30" align="center"/> SELECTED WORK
+
+| | |
+|---|---|
+| **PROJECT 01**<br/>Your Project Name<br/>A short description of what the project does.<br/>`React` `TypeScript` `Tailwind`<br/>[VIEW REPOSITORY →](https://github.com/ismo1lov) | **PROJECT 02**<br/>Your Project Name<br/>A short description of what the project does.<br/>`Node.js` `Express` `PostgreSQL`<br/>[VIEW REPOSITORY →](https://github.com/ismo1lov) |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=80&section=footer" width="100%" />
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=grow_out_in&layout=default&font=Georgia" />
+</p>
 
 </div>
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/phone.png" width="30" align="center"/> CONNECT
+
+<p align="center">
+
+<a href="https://t.me/AbdullohIsmoilov"><img src="https://img.shields.io/badge/Telegram-00C853?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:ismoilovabdulloh2009@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/ismo1lov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ismo1lov&label=PROFILE%20VIEWS&color=00C853&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C853&height=120&section=footer" width="100%" />
+</p>

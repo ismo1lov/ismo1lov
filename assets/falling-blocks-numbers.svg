@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#001f12"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="180" fill="url(#bg2)"/>
+
+  <!-- Falling blocks made of numbers -->
+  <g font-family="'Press Start 2P', monospace" font-weight="bold">
+    <text x="60" y="-30" font-size="22" fill="#00C853" text-anchor="middle">
+      01
+      <animate attributeName="y" from="-30" to="190" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="170" y="-30" font-size="18" fill="#00e676" text-anchor="middle">
+      10
+      <animate attributeName="y" from="-30" to="190" dur="3.2s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="280" y="-30" font-size="26" fill="#009624" text-anchor="middle">
+      11
+      <animate attributeName="y" from="-30" to="190" dur="5s" begin="1.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="390" y="-30" font-size="20" fill="#00C853" text-anchor="middle">
+      00
+      <animate attributeName="y" from="-30" to="190" dur="3.8s" begin="0.3s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="-30" font-size="24" fill="#00e676" text-anchor="middle">
+      01
+      <animate attributeName="y" from="-30" to="190" dur="4.5s" begin="1.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="610" y="-30" font-size="17" fill="#00C853" text-anchor="middle">
+      10
+      <animate attributeName="y" from="-30" to="190" dur="3.1s" begin="0.9s" repeatCount="indefinite"/>
+    </text>
+    <text x="720" y="-30" font-size="28" fill="#009624" text-anchor="middle">
+      11
+      <animate attributeName="y" from="-30" to="190" dur="5.4s" begin="2.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="830" y="-30" font-size="19" fill="#00e676" text-anchor="middle">
+      01
+      <animate attributeName="y" from="-30" to="190" dur="3.6s" begin="1.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="940" y="-30" font-size="23" fill="#00C853" text-anchor="middle">
+      10
+      <animate attributeName="y" from="-30" to="190" dur="4.2s" begin="0.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="1050" y="-30" font-size="25" fill="#00e676" text-anchor="middle">
+      00
+      <animate attributeName="y" from="-30" to="190" dur="3.9s" begin="2.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1140" y="-30" font-size="21" fill="#009624" text-anchor="middle">
+      11
+      <animate attributeName="y" from="-30" to="190" dur="4.7s" begin="1.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

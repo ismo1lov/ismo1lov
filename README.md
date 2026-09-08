@@ -6,7 +6,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00C853&background=00000000&center=true&vCenter=true&width=850&height=90&lines=ABDULLOH+ISMOILOV;FULL-STACK+DEVELOPER;BUILDING+IDEAS+INTO+CODE;LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00C853&background=00000000&center=true&vCenter=true&width=600&height=50&lines=ABDULLOH" alt="Abdulloh" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&height=60&lines=ISMOILOV" alt="Ismoilov" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=800&color=00C853&background=00000000&center=true&vCenter=true&width=900&height=50&lines=FULL-STACK+DEVELOPER;BUILDING+IDEAS+INTO+CODE;LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE" alt="Tagline" />
 
 <br>
 
@@ -20,25 +22,22 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ABOUT ME
+## ═══ ABOUT ME ═══
 
 ```text
-Name     →  Abdulloh Ismoilov
-Role     →  Full-Stack Developer
-Focus    →  Frontend · Backend · UI/UX · Database
-Mindset  →  Learn → Build → Improve
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  █  Name    →  Abdulloh Ismoilov
+  █  Role    →  Full-Stack Developer
+  █  Focus   →  Frontend · Backend · UI/UX · Database
+  █  Mindset →  Learn → Build → Improve
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
 I build modern web applications with a focus on **clean UI**, **real functionality**, and **efficient data handling**.
 
-</td>
-<td width="50%" valign="top">
+---
 
-## CURRENT DIRECTION
+## ═══ SKILLS ═══
 
 ```text
 Frontend      ████████████████████ 90%
@@ -48,13 +47,9 @@ Database      ███████████████░░░░░ 75%
 Problem Solv. ████████████████████ 90%
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-## TECHNOLOGY MAP
+## ═══ TECHNOLOGY MAP ═══
 
 <div align="center">
 
@@ -104,7 +99,7 @@ Problem Solv. ████████████████████ 90%
 
 ---
 
-## GITHUB ACTIVITY
+## ═══ GITHUB ACTIVITY ═══
 
 <div align="center">
 
@@ -124,59 +119,32 @@ Problem Solv. ████████████████████ 90%
 
 ---
 
-## SELECTED WORK
+## ═══ SELECTED WORK ═══
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### PROJECT 01
-
-**Your Project Name**
-
-A short description of what the project does.
-
-`React` `TypeScript` `Tailwind`
-
-[VIEW REPOSITORY →](https://github.com/ismo1lov)
-
-</td>
-<td width="50%" valign="top">
-
-### PROJECT 02
-
-**Your Project Name**
-
-A short description of what the project does.
-
-`Node.js` `Express` `PostgreSQL`
-
-[VIEW REPOSITORY →](https://github.com/ismo1lov)
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **▸ PROJECT 01**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`React` `TypeScript` `Tailwind`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> | **▸ PROJECT 02**<br/><br/>**Your Project Name**<br/><br/>A short description of what the project does.<br/><br/>`Node.js` `Express` `PostgreSQL`<br/><br/>[🔗 VIEW REPOSITORY →](https://github.com/ismo1lov)<br/><br/> |
 
 ---
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   THINK  →  BUILD  →  TEST  →  IMPROVE              │
-│                                                      │
-│            CODE IS A CRAFT.                          │
-│            DETAILS CREATE THE DIFFERENCE.            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  █                                               █
+  █      THINK  →  BUILD  →  TEST  →  IMPROVE    █
+  █                                               █
+  █        CODE IS A CRAFT.                       █
+  █        DETAILS CREATE THE DIFFERENCE.         █
+  █                                               █
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
 </div>
 
 ---
 
-## CONNECT
+## ═══ CONNECT ═══
 
 <div align="center">
 
@@ -185,7 +153,11 @@ A short description of what the project does.
 </a>
 &nbsp;
 <a href="mailto:ismoilovabdulloh2009@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=00C853" />
+</a>
+&nbsp;
+<a href="https://github.com/ismo1lov">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -197,5 +169,5 @@ A short description of what the project does.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C853&height=100&section=footer" width="100%" />
+  <img src="./assets/falling-blocks-numbers.svg" width="100%" alt="Footer" />
 </p>

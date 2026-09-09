@@ -60,7 +60,7 @@ I build modern web applications with a focus on clean UI, real functionality, an
 <br>
 
 <div align="center">
-  <img src="./assets/techmap.svg" width="900" alt="Technology Map" />
+  <img src="./assets/techmap.svg?v=2" width="900" alt="Technology Map" />
 </div>
 
 ---

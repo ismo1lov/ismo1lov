@@ -73,17 +73,13 @@ I build modern web applications with a focus on clean UI, real functionality, an
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ismo1lov&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&icon_color=00C853&ring_color=00C853&include_all_commits=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=ismo1lov&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&icon_color=00C853&ring_color=00C853&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismo1lov&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&langs_count=8" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ismo1lov&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&langs_count=8" />
 
 <br><br>
 
 <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismo1lov&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" />
-
-<br><br>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ismo1lov&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 

@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/about-card.svg?v=3" width="100%" alt="About me — quick facts" />
+  <img src="./assets/about-card.svg?v=4" width="100%" alt="About me — quick facts" />
 </div>
 
 ---

@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/skills-bars-v2.svg" width="800" alt="Skills bars" />
+  <img src="./assets/skills-bars-v3.svg" width="800" alt="Skills bars" />
 </div>
 
 ---

@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/about-card.svg?v=2" width="100%" alt="About Abdulloh Ismoilov — Full-Stack Developer" />
+  <img src="./assets/about-card.svg?v=3" width="100%" alt="About me — quick facts" />
 </div>
 
 ---

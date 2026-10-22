@@ -25,19 +25,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-about.svg?v=7" width="400" alt="About Me" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/about-card.svg?v=6" width="100%" alt="About me — quick facts" />
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/title-techmap.svg?v=7" width="600" alt="Technology Map" />
+  <img src="./assets/title-techmap.svg?v=8" width="600" alt="Technology Map" />
 </div>
 
 <br>
@@ -49,7 +37,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-skills.svg?v=7" width="400" alt="Skills" />
+  <img src="./assets/title-skills.svg?v=8" width="400" alt="Skills" />
 </div>
 
 <br>
@@ -61,7 +49,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-activity.svg?v=7" width="600" alt="GitHub Activity" />
+  <img src="./assets/title-activity.svg?v=8" width="600" alt="GitHub Activity" />
 </div>
 
 <br>
@@ -81,7 +69,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-work.svg?v=7" width="600" alt="Selected Work" />
+  <img src="./assets/title-work.svg?v=8" width="600" alt="Selected Work" />
 
 <br><br>
 

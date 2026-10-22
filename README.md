@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-about.svg?v=5" width="400" alt="About Me" />
+  <img src="./assets/title-about.svg?v=6" width="400" alt="About Me" />
 </div>
 
 <br>
@@ -37,7 +37,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-techmap.svg?v=5" width="600" alt="Technology Map" />
+  <img src="./assets/title-techmap.svg?v=6" width="600" alt="Technology Map" />
 </div>
 
 <br>
@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-skills.svg?v=5" width="400" alt="Skills" />
+  <img src="./assets/title-skills.svg?v=6" width="400" alt="Skills" />
 </div>
 
 <br>
@@ -61,7 +61,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-activity.svg?v=5" width="600" alt="GitHub Activity" />
+  <img src="./assets/title-activity.svg?v=6" width="600" alt="GitHub Activity" />
 </div>
 
 <br>
@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/title-work.svg?v=5" width="600" alt="Selected Work" />
+  <img src="./assets/title-work.svg?v=6" width="600" alt="Selected Work" />
 
 <br><br>
 

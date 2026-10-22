@@ -7,6 +7,6 @@
   </defs>
   <rect width="250" height="70" rx="10" fill="url(#gr1)"/>
   <rect x="3" y="3" width="244" height="64" rx="8" fill="none" stroke="#00C853" stroke-width="3" stroke-dasharray="8 5" opacity="0.7"/>
-  <text x="125" y="40" font-family="'Press Start 2P', monospace" font-size="14" fill="#00C853" text-anchor="middle" font-weight="bold">FULL-STACK</text>
-  <text x="125" y="58" font-family="'Press Start 2P', monospace" font-size="10" fill="#00C853" text-anchor="middle" opacity="0.8">DEVELOPER</text>
+  <text x="125" y="40" font-family="'Press Start 2P', monospace" font-size="14" fill="#58A6FF" text-anchor="middle" font-weight="bold">FULL-STACK</text>
+  <text x="125" y="58" font-family="'Press Start 2P', monospace" font-size="10" fill="#79C0FF" text-anchor="middle" opacity="0.8">DEVELOPER</text>
 </svg>

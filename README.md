@@ -14,11 +14,11 @@
 
 <br>
 
-<img src="./assets/badge-fullstack.svg?v=2" width="250" alt="Full-Stack Developer" />
+<img src="./assets/badge-fullstack-v2.svg" width="250" alt="Full-Stack Developer" />
 &nbsp;
-<img src="./assets/badge-uiux.svg?v=2" width="250" alt="UI/UX Designer" />
+<img src="./assets/badge-uiux-v2.svg" width="250" alt="UI/UX Designer" />
 &nbsp;
-<img src="./assets/badge-learner.svg" width="250" alt="Learner with Passion" />
+<img src="./assets/badge-learner-v2.svg" width="250" alt="Learner with Passion" />
 
 </div>
 

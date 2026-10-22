@@ -14,11 +14,11 @@
 
 <br>
 
-<img src="./assets/badge-fullstack-v2.svg" width="250" alt="Full-Stack Developer" />
+<img src="./assets/badge-fullstack-v3.svg" width="250" alt="Full-Stack Developer" />
 &nbsp;
-<img src="./assets/badge-uiux-v2.svg" width="250" alt="UI/UX Designer" />
+<img src="./assets/badge-uiux-v3.svg" width="250" alt="UI/UX Designer" />
 &nbsp;
-<img src="./assets/badge-learner-v2.svg" width="250" alt="Learner with Passion" />
+<img src="./assets/badge-learner-v3.svg" width="250" alt="Learner with Passion" />
 
 </div>
 
@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/skills-bars.svg" width="800" alt="Skills bars" />
+  <img src="./assets/skills-bars-v2.svg" width="800" alt="Skills bars" />
 </div>
 
 ---

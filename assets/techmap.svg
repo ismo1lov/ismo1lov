@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="344" viewBox="0 0 960 344">
-  <!-- Whole card: dark blue background -->
-  <rect width="960" height="344" rx="14" fill="#0D1B2A"/>
+  <!-- Whole card: GitHub dark theme background -->
+  <rect width="960" height="344" rx="14" fill="#0D1117"/>
 
   <!-- Green numbers rain covering ENTIRE section -->
   <g font-family="monospace" font-weight="bold">

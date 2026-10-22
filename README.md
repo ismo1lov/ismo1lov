@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/techmap.svg?v=3" width="900" alt="Technology Map" />
+  <img src="./assets/techmap-v2.svg" width="900" alt="Technology Map" />
 </div>
 
 ---

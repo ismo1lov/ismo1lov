@@ -14,9 +14,9 @@
 
 <br>
 
-<img src="./assets/badge-fullstack.svg" width="250" alt="Full-Stack Developer" />
+<img src="./assets/badge-fullstack.svg?v=2" width="250" alt="Full-Stack Developer" />
 &nbsp;
-<img src="./assets/badge-uiux.svg" width="250" alt="UI/UX Designer" />
+<img src="./assets/badge-uiux.svg?v=2" width="250" alt="UI/UX Designer" />
 &nbsp;
 <img src="./assets/badge-learner.svg" width="250" alt="Learner with Passion" />
 
@@ -31,24 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/about-card.svg" width="640" alt="About card" />
-</div>
-
-<div align="center">
-<br>
-I build modern web applications with a focus on clean UI, real functionality, and efficient data handling.
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/title-skills.svg" width="400" alt="Skills" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/skills-bars.svg" width="800" alt="Skills bars" />
+  <img src="./assets/about-card.svg?v=2" width="100%" alt="About Abdulloh Ismoilov — Full-Stack Developer" />
 </div>
 
 ---
@@ -61,6 +44,18 @@ I build modern web applications with a focus on clean UI, real functionality, an
 
 <div align="center">
   <img src="./assets/techmap.svg?v=2" width="900" alt="Technology Map" />
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/title-skills.svg" width="400" alt="Skills" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/skills-bars.svg" width="800" alt="Skills bars" />
 </div>
 
 ---

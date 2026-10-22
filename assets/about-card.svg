@@ -1,21 +1,116 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-label="About Abdulloh Ismoilov — Full-Stack Developer">
   <defs>
-    <filter id="aGlow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#00C853" flood-opacity="0.6"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#00160e"/>
+    </linearGradient>
+    <linearGradient id="avatar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E676"/>
+      <stop offset="100%" stop-color="#009624"/>
+    </linearGradient>
+    <linearGradient id="codeBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06100b"/>
+      <stop offset="100%" stop-color="#0a1a12"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00C853" stroke-width="0.6" opacity="0.05"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#00C853" flood-opacity="0.35"/>
     </filter>
+    <clipPath id="codeClip">
+      <rect x="500" y="78" width="460" height="292" rx="14"/>
+    </clipPath>
   </defs>
-  <rect x="0" y="0" width="640" height="200" rx="14" fill="#0D1117"/>
-  <rect x="6" y="6" width="628" height="188" rx="10" fill="none" stroke="#00C853" stroke-width="1" opacity="0.4" stroke-dasharray="8 5"/>
 
-  <text x="30" y="45" font-family="'Press Start 2P', monospace" font-size="14" fill="#00C853" filter="url(#aGlow)">NAME</text>
-  <text x="180" y="45" font-family="monospace" font-size="17" fill="#FFFFFF">Abdulloh Ismoilov</text>
+  <!-- panel -->
+  <rect width="1000" height="400" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="400" rx="18" fill="url(#grid)"/>
+  <rect x="6" y="6" width="988" height="388" rx="14" fill="none" stroke="#00C853" stroke-width="1" stroke-dasharray="10 6" opacity="0.32"/>
 
-  <text x="30" y="85" font-family="'Press Start 2P', monospace" font-size="14" fill="#00C853" filter="url(#aGlow)">ROLE</text>
-  <text x="180" y="85" font-family="monospace" font-size="17" fill="#FFFFFF">Full-Stack Developer</text>
+  <!-- corner brackets -->
+  <path d="M 20 44 L 20 20 L 44 20" fill="none" stroke="#00C853" stroke-width="2.5" opacity="0.85"/>
+  <path d="M 980 44 L 980 20 L 956 20" fill="none" stroke="#00C853" stroke-width="2.5" opacity="0.85"/>
+  <path d="M 20 356 L 20 380 L 44 380" fill="none" stroke="#00C853" stroke-width="2.5" opacity="0.85"/>
+  <path d="M 980 356 L 980 380 L 956 380" fill="none" stroke="#00C853" stroke-width="2.5" opacity="0.85"/>
 
-  <text x="30" y="125" font-family="'Press Start 2P', monospace" font-size="14" fill="#00C853" filter="url(#aGlow)">FOCUS</text>
-  <text x="180" y="125" font-family="monospace" font-size="16" fill="#FFFFFF">Frontend · Backend · UI/UX · Database</text>
+  <!-- window bar -->
+  <circle cx="34" cy="28" r="6" fill="#00C853" opacity="0.9"/>
+  <circle cx="56" cy="28" r="6" fill="#FFFFFF" opacity="0.85"/>
+  <circle cx="78" cy="28" r="6" fill="#0D1117" stroke="#00C853" stroke-width="1.5"/>
+  <text x="102" y="33" font-family="monospace" font-size="13" fill="#8B949E">~/profile/about-me</text>
 
-  <text x="30" y="165" font-family="'Press Start 2P', monospace" font-size="14" fill="#00C853" filter="url(#aGlow)">MIND</text>
-  <text x="180" y="165" font-family="monospace" font-size="16" fill="#FFFFFF">Learn → Build → Improve</text>
+  <rect x="788" y="16" width="178" height="26" rx="13" fill="#00C853" fill-opacity="0.1" stroke="#00C853" stroke-opacity="0.45"/>
+  <circle cx="806" cy="29" r="4" fill="#00C853">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="818" y="33" font-family="monospace" font-size="11" letter-spacing="1" fill="#00C853">BUILDING NOW</text>
+
+  <line x1="24" y1="55" x2="976" y2="55" stroke="#00C853" stroke-opacity="0.18"/>
+
+  <!-- avatar -->
+  <rect x="40" y="78" width="96" height="96" rx="18" fill="url(#avatar)" filter="url(#glow)"/>
+  <rect x="47" y="85" width="82" height="82" rx="12" fill="none" stroke="#0D1117" stroke-width="2" stroke-dasharray="8 5" opacity="0.45"/>
+  <text x="88" y="142" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="26" font-weight="bold" fill="#07110b">AI</text>
+  <circle cx="132" cy="170" r="10" fill="#0D1117"/>
+  <circle cx="132" cy="170" r="6" fill="#00C853"/>
+
+  <!-- identity -->
+  <text x="160" y="110" font-family="'Press Start 2P', monospace" font-size="18" fill="#FFFFFF">ABDULLOH</text>
+  <text x="160" y="138" font-family="'Press Start 2P', monospace" font-size="18" fill="#FFFFFF">ISMOILOV</text>
+  <text x="160" y="164" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="1.5" fill="#00C853">FULL-STACK DEVELOPER</text>
+  <text x="160" y="187" font-family="monospace" font-size="12" fill="#8B949E">Tashkent, Uzbekistan</text>
+
+  <!-- bio -->
+  <text x="40" y="226" font-family="monospace" font-size="13.5" fill="#C9D1D9">I build modern web applications with a focus on</text>
+  <text x="40" y="247" font-family="monospace" font-size="13.5" fill="#C9D1D9">clean UI, real functionality, and efficient data</text>
+  <text x="40" y="268" font-family="monospace" font-size="13.5" fill="#C9D1D9">handling.</text>
+
+  <line x1="40" y1="292" x2="450" y2="292" stroke="#00C853" stroke-opacity="0.2"/>
+
+  <!-- footer facts -->
+  <text x="40" y="318" font-family="'Press Start 2P', monospace" font-size="9" fill="#00C853">GITHUB</text>
+  <text x="40" y="341" font-family="monospace" font-size="14" fill="#FFFFFF">github.com/ismo1lov</text>
+  <text x="450" y="318" text-anchor="end" font-family="'Press Start 2P', monospace" font-size="9" fill="#00C853">MINDSET</text>
+  <text x="450" y="341" text-anchor="end" font-family="'Press Start 2P', monospace" font-size="9" fill="#FFFFFF">LEARN → BUILD → IMPROVE</text>
+
+  <!-- code card -->
+  <rect x="500" y="78" width="460" height="292" rx="14" fill="url(#codeBg)" stroke="#00C853" stroke-opacity="0.3"/>
+  <g clip-path="url(#codeClip)">
+    <rect x="500" y="78" width="460" height="34" fill="#0a1710"/>
+    <line x1="500" y1="112" x2="960" y2="112" stroke="#00C853" stroke-opacity="0.2"/>
+    <circle cx="518" cy="95" r="4.5" fill="#00C853" opacity="0.85"/>
+    <circle cx="534" cy="95" r="4.5" fill="#FFFFFF" opacity="0.75"/>
+    <circle cx="550" cy="95" r="4.5" fill="#0D1117" stroke="#00C853" stroke-width="1"/>
+    <text x="568" y="99" font-family="monospace" font-size="12" fill="#8B949E">developer.ts</text>
+    <text x="940" y="99" text-anchor="end" font-family="monospace" font-size="10" fill="#6E7681">UTF-8</text>
+  </g>
+
+  <!-- code lines -->
+  <text x="522" y="144" font-family="monospace" font-size="11" fill="#3d4b57">1</text>
+  <text x="548" y="144" font-family="monospace" font-size="13.5" fill="#C9D1D9"><tspan fill="#00C853">const</tspan> <tspan fill="#FFFFFF">developer</tspan> <tspan fill="#8B949E">= {</tspan></text>
+
+  <text x="522" y="170" font-family="monospace" font-size="11" fill="#3d4b57">2</text>
+  <text x="564" y="170" font-family="monospace" font-size="13.5" fill="#C9D1D9"><tspan fill="#C9D1D9">name</tspan><tspan fill="#6E7681">:</tspan> <tspan fill="#FFFFFF">"Abdulloh Ismoilov"</tspan><tspan fill="#6E7681">,</tspan></text>
+
+  <text x="522" y="196" font-family="monospace" font-size="11" fill="#3d4b57">3</text>
+  <text x="564" y="196" font-family="monospace" font-size="13.5" fill="#C9D1D9"><tspan fill="#C9D1D9">role</tspan><tspan fill="#6E7681">:</tspan> <tspan fill="#FFFFFF">"Full-Stack Developer"</tspan><tspan fill="#6E7681">,</tspan></text>
+
+  <text x="522" y="222" font-family="monospace" font-size="11" fill="#3d4b57">4</text>
+  <text x="564" y="222" font-family="monospace" font-size="13.5" fill="#C9D1D9"><tspan fill="#C9D1D9">stack</tspan><tspan fill="#6E7681">:</tspan> <tspan fill="#8B949E">[</tspan><tspan fill="#FFFFFF">"React"</tspan><tspan fill="#6E7681">, </tspan><tspan fill="#FFFFFF">"Node"</tspan><tspan fill="#6E7681">, </tspan><tspan fill="#FFFFFF">"TS"</tspan><tspan fill="#8B949E">]</tspan><tspan fill="#6E7681">,</tspan></text>
+
+  <text x="522" y="248" font-family="monospace" font-size="11" fill="#3d4b57">5</text>
+  <text x="564" y="248" font-family="monospace" font-size="13.5" fill="#C9D1D9"><tspan fill="#C9D1D9">focus</tspan><tspan fill="#6E7681">:</tspan> <tspan fill="#8B949E">[</tspan><tspan fill="#FFFFFF">"UI/UX"</tspan><tspan fill="#6E7681">, </tspan><tspan fill="#FFFFFF">"Database"</tspan><tspan fill="#8B949E">]</tspan><tspan fill="#6E7681">,</tspan></text>
+
+  <text x="522" y="274" font-family="monospace" font-size="11" fill="#3d4b57">6</text>
+  <text x="564" y="274" font-family="monospace" font-size="13.5" fill="#C9D1D9"><tspan fill="#C9D1D9">mind</tspan><tspan fill="#6E7681">:</tspan> <tspan fill="#FFFFFF">"learn → build → improve"</tspan><tspan fill="#6E7681">,</tspan></text>
+
+  <text x="522" y="300" font-family="monospace" font-size="11" fill="#3d4b57">7</text>
+  <text x="564" y="300" font-family="monospace" font-size="13.5" fill="#C9D1D9"><tspan fill="#C9D1D9">status</tspan><tspan fill="#6E7681">:</tspan> <tspan fill="#FFFFFF">"building ideas"</tspan><tspan fill="#6E7681">,</tspan></text>
+
+  <text x="522" y="326" font-family="monospace" font-size="11" fill="#3d4b57">8</text>
+  <text x="548" y="326" font-family="monospace" font-size="13.5" fill="#8B949E">};</text>
+
+  <text x="522" y="352" font-family="monospace" font-size="11" fill="#3d4b57">9</text>
+  <text x="548" y="352" font-family="monospace" font-size="13" font-style="italic" fill="#6E7681">// building ideas into code</text>
 </svg>
